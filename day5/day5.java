@@ -5,8 +5,6 @@ package day5;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
-import java.util.Hashtable;
-import java.util.PriorityQueue;
 import java.util.Scanner;
 
 public class day5 {
